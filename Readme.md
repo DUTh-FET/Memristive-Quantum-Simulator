@@ -39,5 +39,5 @@ The repository is organized into the following modules:
 
 Below is a preview of the framework interface and the Memristive Crossbar:
 ![Framework Interface](https://github.com/DUTh-FET/Memristive-Quantum-Simulator/blob/ac4f3092d127705b53e32ad802fd81f059408ad8/Matlab%20Framework%20Preview.png)
-![Memristive Crossbar](https://github.com/DUTh-FET/Memristive-Quantum-Simulator/blob/ac4f3092d127705b53e32ad802fd81f059408ad8/Matlab%20Framework%20Preview.png)
+![Memristive Crossbar](https://github.com/DUTh-FET/Memristive-Quantum-Simulator/blob/8ca993f743b3909a602f054e491905e15c2f41fc/Memristive%20Crossbar.png)
 

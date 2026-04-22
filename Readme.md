@@ -38,5 +38,5 @@ The repository is organized into the following modules:
 ## Example
 
 Below is a preview of the framework interface:
-![Framework Interface](https://github.com/DUTh-FET/Memristive-Quantum-Simulator/blob/f322f5c0f65f15098a8b166a9a614f3acaeff847/Screenshot%202026-04-22%20185323.png)
+![Framework Interface](https://github.com/DUTh-FET/Memristive-Quantum-Simulator/blob/ac4f3092d127705b53e32ad802fd81f059408ad8/Matlab%20Framework%20Preview.png)
 
